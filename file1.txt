@@ -1,2 +1,4 @@
 Sample file -1 
 wanted to add the file to got repo
+
+My second changes in the file
